@@ -1,0 +1,49 @@
+.img-carousel{
+  height: 600px;
+  object-fit: cover;
+}
+
+.logo{
+	width: 34px;
+	height: 34px;
+}
+
+.foto{
+	object-fit: cover;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+}
+.footer{
+	width: 100px;
+	height: 100px;
+}
+
+.image1{
+	position: relative;
+}
+
+.btn-play{
+	position: absolute;
+	left: 50%;
+	bottom: 50%;
+}
+
+.btn-coomingsoon{
+	position: absolute;
+	left: 30%;
+	bottom: 40%;
+}
+
+.comingsoon{
+	border-style: dotted;
+	height: 100%
+}
+
+.bgbluecustom{
+	background-color: #3AB0FF;
+}
+
+.bggreycustom{
+	background-color: #CDC2AE;
+}
