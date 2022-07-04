@@ -51,3 +51,9 @@
 .carousel-caption{
 	bottom: 15.25rem !important;
 }
+
+.img-portofolio{
+	 object-fit: cover;
+	 height: 200px;
+}
+
