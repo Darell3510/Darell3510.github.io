@@ -47,3 +47,7 @@
 .bggreycustom{
 	background-color: #CDC2AE;
 }
+
+.carousel-caption{
+	bottom: 15.25rem !important;
+}
