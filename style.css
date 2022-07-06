@@ -49,7 +49,7 @@
 }
 
 .bg-gradientblue{
-	background-image: linear-gradient(#1f2f98, #1ca7ec);
+	background-image: linear-gradient(#574bcd, #2999ad , #41ef75);
 }
 
 .greygradient{
@@ -71,6 +71,10 @@
 
 .instagram{
 	color: #000080;
+}
+
+.email{
+	color: #15678d;
 }
 
 /*Responsive*/
