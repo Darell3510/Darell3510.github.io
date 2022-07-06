@@ -48,6 +48,18 @@
 	background-color: #CDC2AE;
 }
 
+.bg-gradientblue{
+	background-image: linear-gradient(#1f2f98, #1ca7ec);
+}
+
+.greygradient{
+	background-image: linear-gradient(#9b9b9b, #d1d1d1);
+}
+
+.whitegradient{
+	background-image: linear-gradient(#FFF, #9b9b9b);
+}
+
 .carousel-caption{
 	bottom: 15.25rem !important;
 }
@@ -57,3 +69,25 @@
 	 height: 200px;
 }
 
+.instagram{
+	color: #000080;
+}
+
+/*Responsive*/
+@media (min-width: 320px) and (max-width: 570px) {
+	.carousel-caption{
+		bottom: 15.25rem !important;
+	}
+
+	.comingsoon{
+		height: 210px !important;
+	}
+
+	.email{
+		font-size: 11px !important;
+	}
+
+	.sosmeds{
+		text-align: center !important;
+	}
+}
