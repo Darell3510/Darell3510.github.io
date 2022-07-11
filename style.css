@@ -77,6 +77,20 @@
 	color: #15678d;
 }
 
+.wa{
+	
+	position: fixed;
+	bottom: 100px;
+	left: 10px;
+	z-index: 9999;
+}
+
+.wa-logo{
+	object-fit: contain;
+	width: 60px;
+	height: 60px;
+}
+
 /*Responsive*/
 @media (min-width: 320px) and (max-width: 570px) {
 	.carousel-caption{
